@@ -7,7 +7,7 @@ programa {
    leia(numero)
    acumulador = acumulador + numero
    }
-    escreva("fa soma dos numeros digitados: ", acumulador)
+    escreva("a soma dos numeros digitados: ", acumulador)
 
   }
 }
